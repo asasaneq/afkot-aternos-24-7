@@ -1,0 +1,9 @@
+{
+	"ip":"kmmc.aternos.me",
+	"port": 45042,
+	"name": "test",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register haslo123 haslo123",
+	"login-cmd":"/login haslo123"
+}
